@@ -51,6 +51,7 @@ class ViewController: UIViewController {
         vc.datetext = indexDate
             }
     }
+//randome datetext
 
 
 //MARK: - Table View Methods
