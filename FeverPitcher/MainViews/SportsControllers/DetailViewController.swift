@@ -35,7 +35,7 @@ class DetailViewController: UIViewController {
         wvMain.load(request)
         
     }
- 
+ // event details
 
 }
 
